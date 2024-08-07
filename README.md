@@ -1,9 +1,15 @@
 # Hi there, I'm Pavel 👋
 ## Data Analyst · Looking for a job 
 
-- 🔭 I’m currently looking for a job
+- 🔭 Currently looking for a job
 - 📊 I became interested in data analytics in 2022 and have been actively developing in the field ever since. I have commercial experience in Real Estate analytics, and internship experience in a research project studying the impact of sanctions and the pandemic on the stock market.
 - 🎓 Graduated from Yandex Practicum "Data Analyst" and advanced training courses based on the government Digital Chairs program "Data Analytics for Applications". In the future, I want to develop in the field of A/B tests and Machine Learning.
+
+### 🤓 Big fan of statistics
+
+<p align="center">
+  <img src="https://imageproxyb.ifunny.co/crop:x-20,resize:640x,quality:90x75/images/e9f25be601dbb9d5f0cb2b04bd596994e76e961a780690057654611a36ef869a_1.jpg" alt="Statistics Meme" width="400" />
+</p>
 
 ### 🛠️ Key Skills:
 <p align="center">
