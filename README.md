@@ -11,7 +11,7 @@
   <img src="https://imageproxyb.ifunny.co/crop:x-20,resize:640x,quality:90x75/images/e9f25be601dbb9d5f0cb2b04bd596994e76e961a780690057654611a36ef869a_1.jpg" alt="Statistics Meme" width="400" />
 </p>
 
-### 🛠️ Key Skills:
+### 🛠️ Key Skills
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL" />
   <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL" />
@@ -28,6 +28,6 @@
   <img src="https://img.icons8.com/color/48/000000/microsoft-powerpoint-2019.png" alt="Power Point" />
 </p>
 
-### 📬 Contact me:
+### 📬 Contact me
 [![Telegram](https://img.icons8.com/color/48/000000/telegram-app.png)](https://t.me/otricalaa)
 [![Email](https://img.icons8.com/color/48/000000/gmail.png)](mailto:tw0cbman@gmail.com)
