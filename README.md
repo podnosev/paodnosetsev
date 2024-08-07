@@ -15,8 +15,8 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="numpy" height="48" />
   <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="seaborn" height="48" />
   <img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="Tableau" />
-  <img src="https://yastatic.net/s3/kraynov/studio/lens/v1.5.0/lens-logo.svg" alt="DataLens" height="48" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/OpenAI_Logo.svg" alt="OpenAI" height="48" />
+  <img src="https://yolva-it.ru/wp-content/uploads/2023/04/datalens_front.png" alt="DataLens" height="48" />
+  <img src="https://cdn.worldvectorlogo.com/logos/openai-2.svg" alt="OpenAI" height="48" />
   <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" />
   <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png" alt="Excel" />
   <img src="https://img.icons8.com/color/48/000000/microsoft-powerpoint-2019.png" alt="Power Point" />
