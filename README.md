@@ -1,6 +1,5 @@
 # Hi there, I'm Pavel 👋
 ## Data Analyst · Looking for a job 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently looking for a job
 - 📊 I became interested in data analytics in 2022 and have been actively developing in the field ever since. I have commercial experience in Real Estate analytics, and internship experience in a research project studying the impact of sanctions and the pandemic on the stock market.
