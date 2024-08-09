@@ -2,7 +2,7 @@
 ## Data Analyst · Looking for a job 
 
 - 📊 I became interested in data analytics in 2022 and have been actively developing in the field ever since. I'm most interested in A/B tests and Machine Learning at the moment.
-- 💼 I have **commercial experience** of 1+ year in Real Estate analytics, and [**internship experience**](https://sanctions-impact.lad-academy.ru/) in a research project studying the impact of sanctions and the pandemic on the stock markets.
+- 💼 I have **commercial experience** of 1+ year in a Real Estate company, and [**internship experience**](https://sanctions-impact.lad-academy.ru/) in a research project studying the impact of sanctions and the pandemic on the stock markets.
 - 🎓 Currently getting a **degree in Marketing.** Graduated from **Yandex Practicum *"Data Analyst"*** courses and advanced training courses based on the **Digital Chairs program *"Data Analysis for Diverse Industries".***
 
 ### 🤓 Big fan of statistics
