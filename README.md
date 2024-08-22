@@ -1,5 +1,5 @@
 # Hi there, I'm Pavel 👋
-## Data Analyst · Looking for a job 
+## Data Analyst 
 
 - 📊 I became interested in data analytics in 2022 and have been actively developing in the field ever since. I'm most interested in A/B tests and Machine Learning at the moment.
 - 💼 I have **commercial experience** of 1+ year in a Real Estate company, and [**internship experience**](https://sanctions-impact.lad-academy.ru/) in a research project studying the impact of sanctions and the pandemic on the stock markets.
@@ -23,7 +23,6 @@
   <img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="Tableau" />
   <img src="https://yolva-it.ru/wp-content/uploads/2023/04/datalens_front.png" alt="DataLens" height="48" />
   <img src="https://cdn.worldvectorlogo.com/logos/openai-2.svg" alt="OpenAI" height="48" />
-  <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" />
   <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png" alt="Excel" />
   <img src="https://img.icons8.com/color/48/000000/microsoft-powerpoint-2019.png" alt="Power Point" />
 </p>
